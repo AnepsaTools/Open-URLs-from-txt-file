@@ -2,6 +2,8 @@
 
 # Open URLs from TXT File
 
+This program opens a new tab in the browser for every line on the TXT file. 
+
 ## How to start the app
 
 Requirements
