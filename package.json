@@ -1,0 +1,16 @@
+{
+  "name": "open-urls-qr-codes-from-txt-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "QR.js",
+  "scripts": {
+    "start": "node QR.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.4.2"
+  }
+}
